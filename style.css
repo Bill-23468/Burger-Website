@@ -5,4 +5,12 @@ body{
 h1{
     text-align: center;
     color: #3E2C1C;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+h4{
+    text-align: center;
+    color: #3E2C1C;
+    font-size: 12px;
+    margin-top: 0px;
 }
