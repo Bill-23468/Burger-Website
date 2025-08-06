@@ -23,13 +23,21 @@ h3{
 h4{    
     text-align: center;
     color: #3E2C1C;
-    font-size: 50px;
+    font-size: 92px;
     margin-bottom: 10px;
+    margin-top: 0px;
 
 }
 h5{
     text-align: center;
     color: #F7EDDF;
-    font-size: 90px;
+    font-size: 106px;
     margin-top: 10px;
+}
+
+.hero-image{
+    background-image: url("./imagefolder/image\ under\ title.jpg");
+    height: 501px;
+    margin-top: 0px; 
+    padding-top: 250px;
 }
