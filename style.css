@@ -56,7 +56,11 @@ p{
     width: 897px;
     text-align: left;
     width: 900px;
-    margin-left: 230px;
+    margin-left: 250px;
     margin-right: 170px;
     margin-top: 0px;
+}
+.half-burger-image{
+    object-position: 200px;
+    margin-left: 250px;
 }
