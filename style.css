@@ -109,6 +109,12 @@ h6{
     font-size: 25px;
 }
 
+.chicken-section-title{
+    text-align: center;
+    color: #3E2C1C;  
+    font-size: 25px;
+}
+
 .three-columns{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
