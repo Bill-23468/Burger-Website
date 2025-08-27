@@ -1,5 +1,7 @@
 body{
     background-color: #F3E7D3;
+    margin: 0;
+    overflow-x: hidden;
 }
 
 .pre-title{
@@ -39,6 +41,9 @@ h5{
     height: 501px;
     margin-top: 0px; 
     padding-top: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
 }
 
 h6{
@@ -50,30 +55,28 @@ h6{
     margin-top: 100px;
 }
 
+.intro-text{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .content-intro{
     color: #3E2C1C;
     font-size: 23px; 
-    width: 897px;
+    width: 100%;
     text-align: left;
-    width: 900px;
-    margin-left: 250px;
-    margin-right: 170px;
-    margin-top: 0px;
     line-height: 1.5;
 }
 
 .half-burger-image{
-    object-position: 200px;
+    margin-left: 200px;
 }
 
 .text-next-to-intro-image{
     color: #3E2C1C;
     font-size: 23px; 
-    width: 897px;
     text-align: left;
-    width: 400px;
-    margin-left: 50px;
-    margin-right: 170px;
+    width: 500px;
     margin-top: -25px;
 }
 
@@ -81,6 +84,7 @@ h6{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10px;
+    margin-top: 50px;
 }
 
 .burger-collection-title{
@@ -94,6 +98,11 @@ h6{
     line-height: 60px;
 }
 
+.beef-section{
+    width: 100%;
+    position: relative;
+}
+
 .beef-section-title{
     text-align: center;
     color: #3E2C1C;  
@@ -101,8 +110,18 @@ h6{
 }
 
 .three-columns{
+    position: absolute;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 30px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 60px;
+    width: 95%;
+    margin-left: 50px;
 }
 
+.three-columns img{
+    width: 100%;
+}
+
+.intro-paragraphs{
+    width: 100%;
+}
