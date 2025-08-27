@@ -125,3 +125,10 @@ h6{
 .intro-paragraphs{
     width: 100%;
 }
+
+.burger-title {
+    color: #3E2C1C;
+    text-align: center;  
+    font-size: 30px;     
+    margin-top: 30px;    
+}
