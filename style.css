@@ -110,12 +110,11 @@ h6{
 }
 
 .three-columns{
-    position: absolute;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 60px;
-    width: 95%;
-    margin-left: 50px;
+    width: 80%;     
+    margin: 0 auto; 
 }
 
 .three-columns img{
