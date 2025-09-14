@@ -102,12 +102,13 @@ h6{
 .burger-collection-title{
     text-align: left;
     color: #3E2C1C;
-    font-size: 40px;
+    font-size: 60px;
     margin-left: 400px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     margin-top: 120px;
     width: 100px;
-    line-height: 60px;
+    line-height: 100px;    
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 .beef-section-title{
@@ -121,6 +122,7 @@ h6{
     color: #3E2C1C;  
     font-size: 25px;
     margin-top: 100px;
+    font-family: 'Bungee', sans-serif;
 }
 
 .three-columns {
