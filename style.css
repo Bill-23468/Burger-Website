@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bebas+Neue&family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bebas+Neue&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 body{
     background-color: #F3E7D3;
@@ -154,9 +154,10 @@ h6{
 .burger-prompt{
     color: #3E2C1C;
     text-align: center;  
-    font-size: 12px;     
+    font-size: 13px;     
     margin-top: 2px;    
     font-family: 'Inter', sans-serif;
+    font-weight: 500; 
 }
 
 .card{
