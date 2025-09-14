@@ -9,7 +9,8 @@ body{
 .pre-title{
     text-align: center;
     color: #3E2C1C;
-    font-size: 30px;;
+    font-size: 30px;
+    font-family: 'Bebas Neue', sans-serif;
 }
 .pre-title-blurb-underneath{
     text-align: center;
