@@ -201,3 +201,7 @@ html {
 .beef-section{
     background-color: #C49A6C;
 }
+
+.burger-collection > div {
+    padding: 60px 0;
+  }
