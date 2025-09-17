@@ -103,12 +103,13 @@ h6{
 .burger-collection-title{
     text-align: left;
     color: #3E2C1C;
-    font-size: 60px;
+    font-size: 105px;
     margin-left: 400px;
     margin-bottom: 0px;
     margin-top: 120px;
     width: 100px;
-    line-height: 100px;    
+    line-height: 150px;    
+    font-weight: bold;  
     font-family: 'Bebas Neue', sans-serif;
 }
 
@@ -222,6 +223,7 @@ html {
 
 .beef-section{
     background-color: #C49A6C;
+    padding-top: 0;
 }
 
 .lamb-section { 
@@ -233,5 +235,11 @@ html {
 }
 
 .burger-collection > div {
-    padding: 60px 0;
+    padding: 20px 0;
   }
+
+.burger-collection-title{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    height: 370px;
+}
