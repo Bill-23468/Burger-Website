@@ -57,6 +57,7 @@ h5{
 h6{
     color: #3E2C1C;
     font-size: 50px;
+    margin: 50px;
     padding: 20px 150px;
     margin-bottom: 0px;
     width: 100%;
@@ -65,7 +66,7 @@ h6{
 }
 
 .intro-text{
-    width: 1000px;
+    width: 950px;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Inter', sans-serif;
@@ -80,14 +81,14 @@ h6{
 }
 
 .half-burger-image{
-    margin-left: 200px;
+    margin-left: 255px;
 }
 
 .text-next-to-intro-image{
     color: #3E2C1C;
     font-size: 21px; 
     text-align: left;
-    width: 500px;
+    width: 420px;
     margin-top: -25px;
     font-family: 'Inter', sans-serif;
 }
@@ -95,7 +96,7 @@ h6{
 .two-columns{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
+    gap: 40px;
     margin-top: 50px;
 }
 
